@@ -1,4 +1,4 @@
-source "http://rubygems.org"
+source "http://www.rubygems.org"
 ruby RUBY_VERSION
 
 gem 'jekyll-seo-tag'
