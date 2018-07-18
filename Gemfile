@@ -1,6 +1,9 @@
-source "http://www.rubygems.org"
-ruby "2.3.1"
+source 'http://www.rubygems.org'
+ruby '2.3.1'
 
-gem 'jekyll-seo-tag'
-gem 'jekyll-sitemap' 
-gem "github-pages", group: :jekyll_pluginsGem
+group :jekyll_pluginsGem do
+gem 'jekyll-seo-tag', '~> 2.5'
+gem 'jekyll-sitemap', '~> 1.2'
+end
+ 
+gem 'github-pages', '~> 188'
