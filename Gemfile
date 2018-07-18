@@ -1,5 +1,5 @@
 source "http://www.rubygems.org"
-ruby RUBY_VERSION
+ruby "2.3.1"
 
 gem 'jekyll-seo-tag'
 gem 'jekyll-sitemap' 
