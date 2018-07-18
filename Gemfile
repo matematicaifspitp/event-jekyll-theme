@@ -7,4 +7,4 @@ gem 'jekyll-seo-tag'
 gem 'jekyll-sitemap'
 gem "uglifier" 
 gem "sass" 
-gem "github-pages", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_pluginsGem
