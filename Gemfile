@@ -1,4 +1,4 @@
-source 'http://www.rubygems.org'
+source 'https://rubygems.org/'
 ruby '2.3.1'
 
 group :jekyll_pluginsGem do
