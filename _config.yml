@@ -1,4 +1,4 @@
-title: Your Title
+title: II Semana da Matemática
 description: > # this means to ignore newlines until "baseurl:"
   Your description
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -22,10 +22,6 @@ include: ['_2016_pages', '_2017_pages']
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-  
-gems:
-- jekyll-sitemap
-- jekyll-seo-tag
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
