@@ -1,0 +1,17 @@
+- time: 19:00 - 19:45
+  info: "<u>GINCANA 1 - </u><br><br>Local: XXXXX"
+
+- time: 19:45 - 20:30
+  info: "<u>GINCANA 2 - </u><br><br>Local: XXXXX"
+
+- time: 20:30 - 20:45
+  info: "<u>COFFE-BREAK</u><br>Espaço do Auditório de Informática"
+
+- time: 20:45 - 21:30
+  info: "<u>GINCANA 3 - </u><br><br>Local: XXXXX"
+
+- time: 21:30 - 22:15
+  info: "<u>GINCANA 4 - </u><br><br>Local: XXXXX"
+
+- time: 22:15 - 22:30
+  info: "<u>ENCERRAMENTO</u><br><b>Prof. Me. Paulo Henrique Correia A. da Cruz</b><br><i>IFSP - Itapetininga</i><br><br>Local: Auditório de Informática"

@@ -12,12 +12,12 @@ published: true
     <div class="event black-frame">
       <h1>{{ page.title }}</h1>
 
-        <h2>Day 1</h2>
+        <h2>Dia 16/10/2018 (Terça-Feira)</h2>
         <table class="agenda">
             <thead>
                 <tr>
-                    <th class="row-1 agenda-time"><center>Time</center></th>
-                    <th class="row-2 agenda-activity"><center>Activity</center></th>  
+                    <th class="row-1 agenda-time"><center>Horário</center></th>
+                    <th class="row-2 agenda-activity"><center>Atividade</center></th>  
                 </tr>
             </thead>
 
@@ -29,17 +29,51 @@ published: true
             {% endfor %}
         </table>
 
-        <h2>Day 2</h2>
+        <h2>Dia 17/10/2018 (Quarta-Feira)</h2>
         <table class="agenda">
             <thead>
                 <tr>
-                    <th class="row-1 agenda-time"><center>Time</center></th>
-                    <th class="row-2 agenda-activity"><center>Activity</center></th>  
+                    <th class="row-1 agenda-time"><center>Horário</center></th>
+                    <th class="row-2 agenda-activity"><center>Atividade</center></th>  
                 </tr>
 
             </thead>
 
             {% for agenda in site.data.twenty_17.agendas_2 %}
+                <tr>
+                    <td>{{ agenda.time }}</td>
+                    <td>{{ agenda.info }}</td>
+                </tr> 
+            {% endfor %}
+        </table>
+
+        <h2>Dia 18/10/2018 (Quinta-Feira)</h2>
+        <table class="agenda">
+            <thead>
+                <tr>
+                    <th class="row-1 agenda-time"><center>Horário</center></th>
+                    <th class="row-2 agenda-activity"><center>Atividade</center></th>  
+                </tr>
+            </thead>
+
+            {% for agenda in site.data.twenty_17.agendas_3 %}
+                <tr>
+                    <td>{{ agenda.time }}</td>
+                    <td>{{ agenda.info }}</td>
+                </tr> 
+            {% endfor %}
+        </table>
+
+        <h2>Dia 19/10/2018 (Sexta-Feira)</h2>
+        <table class="agenda">
+            <thead>
+                <tr>
+                    <th class="row-1 agenda-time"><center>Horário</center></th>
+                    <th class="row-2 agenda-activity"><center>Atividade</center></th>  
+                </tr>
+            </thead>
+
+            {% for agenda in site.data.twenty_17.agendas_4 %}
                 <tr>
                     <td>{{ agenda.time }}</td>
                     <td>{{ agenda.info }}</td>

@@ -1,5 +1,11 @@
-- time: 8:00 AM - 12:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: 19:00 - 19:15
+  info: "<u>ABERTURA</u><br><b>Prof. Me. Paulo Henrique Correia A. da Cruz</b><br><i>IFSP - Itapetininga</i><br><br>Local: Auditório de Informática"
 
-- time: 12:00 PM - 3:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: 19:15 - 20:30
+  info: "<u>EDUCAÇÃO FINANCEIRA: ESPAÇOS E POSSIBILIDADES PARA AS AULAS DE MATEMÁTICA</u><br><b>Profa. Me. Ana Karina Cancian Baroni</b><br><i>IFSP - Capivari</i><br><br>Palestra 1</i><br>Local: Auditório de Informática"
+
+- time: 20:30 - 20:45
+  info: "<u>COFFE-BREAK</u><br>Espaço do Auditório de Informática"
+
+- time: 20:45 - 22:00
+  info: "<u>PROBLEMAS E FENÔMENOS NATURAIS NA PERSPECTIVA DA MODELAGEM MATEMÁTICA</u><br><b>Prof. Me. Carlos Frank Lima dos Santos</b><br><i>Doutorando em Biometria - UNESP</i><br><br>Palestra 2</i><br>Local: Auditório de Informática"
