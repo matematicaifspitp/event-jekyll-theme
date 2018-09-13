@@ -30,6 +30,6 @@
 
 - inverted: timeline-inverted
   img: booklet-icon.png
-  name: Event Booklet
-  info: View or Download our event booklet
+  name: Cartaz do evento
+  info: Visualize ou faça download do cartaz da 2ª SEMATIF
   link: /booklet
