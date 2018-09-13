@@ -1,26 +1,44 @@
-- title: Name
+- title: Profa. Me. Ayumi Kato de Campos
   name: Name-1
-  subtitle: Position
+  subtitle: IFSP - Itapetininga (MAT-ITP)
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
-  topic: Topic
-  description: More Info
+  topic: 
+  description: Presidenta da comissão organizadora da 2ª SEMATIF
 
-- title: Name
+- title: Prof. Me. Victor Vaz Pavani
   name: Name-2
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+  subtitle: IFSP - Itapetininga (MAT-ITP)
+  img: foto_matheus.gif
+  thumbnail: foto_matheus.gif
   alt: Picture of TBD
-  topic: Topic
-  description: More Info
+  topic: 
+  description: Membro da comissão organizadora da 2ª SEMATIF
 
-- title: Name
+- title: Prof. Dr. Rafael Massambone de Oliveira
   name: Name-3
-  subtitle: Position
+  subtitle: IFSP - Itapetininga (MAT-ITP)
+  img: rafael.jpg
+  thumbnail: rafael.jpg
+  alt: Picture of TBD
+  topic:
+  description: Membro da comissão organizadora da 2ª SEMATIF
+
+- title: Prof. Me. Matheus Moreira Costa
+  name: Name-4
+  subtitle: IFSP - Itapetininga (MAT-ITP)
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
-  topic: Topic
-  description: More Info
+  topic:
+  description: Membro da comissão organizadora da 2ª SEMATIF
+
+- title: Corpo discente
+  name: Name-5
+  subtitle: IFSP - Itapetininga (MAT-ITP)
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic:
+  description: Amanda Fogaça Correa, Amanda C. Fernandes Fogaça, Ana Vitória D. Bressanini, Andressa Said Correa, Daiara Gomes Padilha, Francine Targa de Lima.
