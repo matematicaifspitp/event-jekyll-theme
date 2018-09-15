@@ -1,8 +1,8 @@
-title: II Semana da Matemática
+title: 2ª SEMATIF
 description: > # this means to ignore newlines until "baseurl:"
-  Testando aqui a descrição contida em _config.yml.
+  Site da semana da matemática do IFSP campus Itapetininga
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://matematicaifspitp.github.io/semana_matematica2" # the base hostname & protocol for your site
+url: "https://matematicaifspitp.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
